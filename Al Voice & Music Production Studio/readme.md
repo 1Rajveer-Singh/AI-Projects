@@ -12,7 +12,7 @@ AI Voice & Production Studio is a cutting-edge web application that combines adv
 
 🚀 Key Features
 
-✅ AI-Generated Singing 🎙️ – Uses Bark AI to synthesize realistic, human-like singing voices.
+✅ AI-Generated Singing 🎙️ – Uses AI to synthesize realistic, human-like singing voices.
 
 ✅ Text-to-Speech (TTS) 🗣️ – Converts text into natural-sounding speech using GTTS.
 
