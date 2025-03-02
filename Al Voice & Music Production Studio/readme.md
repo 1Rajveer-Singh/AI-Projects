@@ -1,9 +1,13 @@
 AI Voice & Production Studio 🎶🎤
 
 
+
 🌟 Overview
 
+
 AI Voice & Production Studio is a cutting-edge web application that combines advanced AI models to generate human-like singing, synthesize speech, and create high-quality background music. This tool enables users to produce AI-generated audio effortlessly, perfect for music creation, voiceovers, and more! 🎧✨
+
+
 
 
 🚀 Key Features
@@ -21,17 +25,27 @@ AI Voice & Production Studio is a cutting-edge web application that combines adv
 ✅ Downloadable Output 📥 – Export the final audio in WAV format for sharing & playback.
 
 
+
+
+
 🛠️ Tech Stack
 
 💻 Python – (Streamlit for UI, Torch for AI models)🎤 Bark AI – (AI-powered singing synthesis)🎵 MusicGen – (Generates background instrumentals)🗣️ GTTS – (Converts text into speech)
 
 
+
+
+
 ⚙️ How It Works?
 
 1️⃣ Enter Lyrics ✍️ – Input the lyrics for AI-generated singing.
+
 2️⃣ Select Voice 🎙️ – Choose from a variety of AI-generated voices.
+
 3️⃣ Generate Background Music 🎼 – Pick instruments and let AI compose a track.
+
 4️⃣ Mix & Adjust 🎛️ – Blend voice & music, fine-tune pitch & volume.
+
 5️⃣ Download & Share 📥 – Save your final AI-generated music masterpiece!
 
 
@@ -46,6 +60,10 @@ Sample Output
 
 ![Screenshot 2025-03-02 104621](https://github.com/user-attachments/assets/e6e39464-af51-4971-90f7-284bad58f4b9)
 ![Screenshot 2025-03-02 104715](https://github.com/user-attachments/assets/01ed44d7-6fb6-42da-a1a5-62fc1558906b)
+
+
+
+
 
 🔧 Installation & Usage
 
@@ -63,14 +81,28 @@ Sample Output
  streamlit run app.py
 
 
+
+
+
+
+
 ✨ Future Enhancements
 
 🚀 Real-time voice modulation🌍 Multi-language support🎭 AI-powered voice cloning
 
 
+
+
+
+
 👨‍💻 Contributors
 
 🎤 Your Name – Developer & AI Integrator
+
+
+
+
+
 
 📜 License
 
