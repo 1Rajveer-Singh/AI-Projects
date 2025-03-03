@@ -65,20 +65,6 @@ Sample Output
 
 
 
-🔧 Installation & Usage
-
-1️⃣ Clone the repository:
-
- git clone https://github.com/your-repo/ai-voice-studio.git
- cd ai-voice-studio
-
-2️⃣ Install dependencies:
-
- pip install -r requirements.txt
-
-3️⃣ Run the application:
-
- streamlit run app.py
 
 
 
